@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+fontes/resultado_teste.json
+*.duckdb
